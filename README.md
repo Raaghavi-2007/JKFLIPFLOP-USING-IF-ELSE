@@ -41,9 +41,10 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 6. Observe and verify the timing waveform with the JK Flip-Flop functional table.
 
 
-**PROGRAM**
+**PROGRAM:**
 
-/* Program for flipflops and verify its truth table in quartus using Verilog programming. 
+/* Program for flipflops and verify its truth table in quartus using Verilog programming.
+
 Developed by: RAAGHAVI S RegisterNumber:212225040321
 */
 ```
@@ -76,5 +77,6 @@ endmodule
 <img width="1919" height="1022" alt="Screenshot 2026-05-26 001202" src="https://github.com/user-attachments/assets/9ecc106d-e491-47df-9d2a-d09164c53d16" />
 
 
-**RESULTS**
+**RESULTS:**
+
 Thus, JK flipflop is implemented using Quartus Software.
